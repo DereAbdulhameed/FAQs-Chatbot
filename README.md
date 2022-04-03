@@ -4,7 +4,13 @@ I can help you create and manage Telegram bots. If you're new to the Bot API, pl
 
 You can control me by sending these commands:
 
+
+
+
+
 /newbot - create a new bot
+
+
 /mybots - edit your bots [beta]
 
 Edit Bots
