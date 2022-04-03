@@ -15,11 +15,17 @@ You can control me by sending these commands:
 
 Edit Bots
 /setname - change a bot's name
+
 /setdescription - change bot description
+
 /setabouttext - change bot about info
+
 /setuserpic - change bot profile photo
+
 /setcommands - change the list of commands
+
 /deletebot - delete a bot
+
 
 Bot Settings
 /token - generate authorization token
