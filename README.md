@@ -1,57 +1,51 @@
-# FAQs-Chatbot
 
-I can help you create and manage Telegram bots. If you're new to the Bot API, please see the manual (https://core.telegram.org/bots).
+# COVID-19 FAQ Chatbot for Telegram
 
-You can control me by sending these commands:
+## Overview
 
+This README document describes the COVID-19 FAQ Chatbot, a specialized Telegram bot designed to provide instant, accurate answers to frequently asked questions about COVID-19, sourced from the Nigeria Centre for Disease Control (NCDC) website. You can access the bot [here](https://t.me/COVID_FAQS_BOT): 
 
+## Features
 
+- **Real-Time Information**: The chatbot pulls up-to-date information directly from the NCDC website, ensuring that users receive the most current data on COVID-19.
 
+- **Easy-to-Use Interface**: Integrated seamlessly with Telegram, the chatbot offers a user-friendly platform, making it accessible for people of all ages.
 
-/newbot - create a new bot
+- **Comprehensive FAQ Coverage**: Covers a wide range of topics, from symptoms and prevention to vaccination and travel advice.
 
+- **Instant Response**: The chatbot is designed to respond immediately, providing quick answers to users’ queries.
 
-/mybots - edit your bots [beta]
+- **Privacy-Conscious**: User interactions with the bot are confidential, ensuring privacy and security of information.
 
-Edit Bots
-/setname - change a bot's name
+## How to Use
 
-/setdescription - change bot description
+1. **Accessing the Chatbot**: Open Telegram and search for [COVID_19_FAQS_BOT]. Click on ‘Start’ to begin interacting with the bot.
 
-/setabouttext - change bot about info
+2. **Asking Questions**: Simply type in your question about COVID-19 and the bot will provide an answer based on the latest information from the NCDC.
 
-/setuserpic - change bot profile photo
+3. **Navigation Tips**: Use simple, direct questions for best results. The bot is programmed to understand natural language to a certain extent.
 
-/setcommands - change the list of commands
+4. **Feedback and Support**: Users can provide feedback or report issues through a dedicated option in the chatbot.
 
-/deletebot - delete a bot
+## Development
 
+- **Technology Stack**: The chatbot is built using [mention specific technologies used, e.g., Python, Dialogflow, etc.], ensuring robust performance and scalability.
 
-Bot Settings
-/token - generate authorization token
+- **Data Source**: The bot sources its information from the official NCDC website, maintaining accuracy and reliability.
 
-/revoke - revoke bot access token
+- **Integration**: Seamlessly integrated with Telegram for widespread accessibility and ease of use.
 
-/setinline - toggle inline mode (https://core.telegram.org/bots/inline)
+## Updates and Maintenance
 
-/setinlinegeo - toggle inline location requests (https://core.telegram.org/bots/inline#location-based-results)
+- The bot is regularly updated to reflect the latest information and guidelines related to COVID-19.
+- Maintenance is conducted periodically to ensure smooth operation and integration with the NCDC website.
 
-/setinlinefeedback - change inline feedback (https://core.telegram.org/bots/inline#collecting-feedback) settings
+## Contact and Support
 
-/setjoingroups - can your bot be added to groups?
+For more information, support, or collaboration, contact me through daabiola3@gmail.com.
 
-/setprivacy - toggle privacy mode (https://core.telegram.org/bots#privacy-mode) in groups
+---
+Disclaimer: This chatbot is intended for informational purposes only and does not substitute for professional medical advice, diagnosis, or treatment.
+---
 
-
-Games
-
-/mygames - edit your games (https://core.telegram.org/bots/games) [beta]
-
-/newgame - create a new game (https://core.telegram.org/bots/games)
-
-/listgames - get a list of your games
-
-/editgame - edit a game
-
-/deletegame - delete an existing game
-
+Feel free to customize this template to match the specifics of your chatbot, including its name, the technologies used, and any additional features or details you might want to include.
